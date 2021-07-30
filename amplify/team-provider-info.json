@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ninjanotes-dev-203905-authRole",
+      "UnauthRoleArn": "arn:aws:iam::376960377058:role/amplify-ninjanotes-dev-203905-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::376960377058:role/amplify-ninjanotes-dev-203905-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-ninjanotes-dev-203905-deployment",
+      "UnauthRoleName": "amplify-ninjanotes-dev-203905-unauthRole",
+      "StackName": "amplify-ninjanotes-dev-203905",
+      "StackId": "arn:aws:cloudformation:us-east-1:376960377058:stack/amplify-ninjanotes-dev-203905/a98ed770-8864-11eb-a58c-0ad52a854211",
+      "AmplifyAppId": "dki2f18lx53qi"
+    },
+    "categories": {
+      "auth": {
+        "ninjanotes0a973fde": {}
+      },
+      "function": {
+        "ninjanotes0a973fdePostConfirmation": {
+          "deploymentBucketName": "amplify-ninjanotes-dev-203905-deployment",
+          "s3Key": "amplify-builds/ninjanotes0a973fdePostConfirmation-4d4169335133396d4176-build.zip"
+        }
+      }
+    }
+  }
+}

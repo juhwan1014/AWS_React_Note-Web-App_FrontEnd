@@ -1,0 +1,76 @@
+.tableIdNote{
+    padding: 10px;
+}
+.notesId {
+    margin-bottom: 30px;
+}
+
+.noteBody{
+    display: flex;
+    height: 100%;
+}
+
+.notesHeader{
+    font-family: 'DotGothic16';
+    text-align: center;
+    font-weight: 800;
+    margin-top: 20px;
+}
+
+.deleteButtonNote{
+    background-color: white;
+    border: none;
+    color: #333533;
+}
+.deleteButtonNote :hover{
+    color: red;
+}
+
+.deleteSection{
+    display: flex;
+    justify-content: space-between;
+} 
+
+.formbox{
+    border: #F3C25C;
+    border-style: solid;
+    margin: auto;
+    margin-bottom: 2px;
+}
+
+.noteContents{
+    max-width: 500px;
+    padding: 10px;
+    min-height: 50px;
+    max-height: 100px;
+    overflow-y: scroll;
+    font-family: 'DotGothic16';
+    font-size: 1em;
+}
+
+.textBox.form-group{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.notesPage.form-control{
+    min-width: 500px;
+    padding: 15px;
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    font-family: 'DotGothic16';
+    font-size: 1em;
+    color: #fff !important;
+    background-color: #333533 !important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+}
+
+.noteLastDiv{
+    padding-bottom: 50px;
+}

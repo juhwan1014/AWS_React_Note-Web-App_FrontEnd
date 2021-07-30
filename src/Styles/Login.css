@@ -1,0 +1,22 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
+
+  .btn-primary.disabled, .btn-primary:disabled {
+    color: #fff;
+    background-color: #000000 !important;
+    border-color: #000000 !important ;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #F3C25C !important;
+  border-color: #F3C25C !important;
+}

@@ -1,0 +1,22 @@
+.miniNinja {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border: #333533;
+    border-style: solid;
+    border-radius: 50px;
+    padding: 2px;
+    background-color: #333533;
+}
+
+.ninjaUser{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    padding: 5px;
+    font-family: 'Roboto';
+}
+
+.closeBar{
+padding: 5px;
+}

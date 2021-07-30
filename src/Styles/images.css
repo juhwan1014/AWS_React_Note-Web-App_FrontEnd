@@ -1,0 +1,132 @@
+.ImgContainer {
+    width: 900px;
+    margin: auto;
+    
+}
+.imageContainer {
+    margin: auto;
+    display: flex;
+    border-radius: 10px;
+    background-color: #333533;
+    padding-top:20px;
+    padding-bottom:20px;
+    
+   
+  
+}
+
+.uploadImage {
+    display: flex;
+    width: 100vw;
+    height: 100%;
+    text-align: center;
+}
+.pictures{
+    display: flex;
+    height: 150px;
+    width: 150px;
+}
+
+.pictureTD{
+    margin-left: 23px;
+    padding: 10px;
+    display: inline-flex;
+}
+
+
+
+.galleryIcon{
+    text-align: center !important;
+}
+
+.pictureBOX{
+    max-width: 100%;
+    display: flex;
+    margin-left: 100px;
+}
+
+.uploadAndSave{
+    display: flex;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.PictureSaveForm{
+    display: flex;
+    height: 30px;
+}
+
+.deleteButtonLink{
+    margin-right: 50px;
+}
+
+.uploadedImage{
+    width: 200px;
+    height: 300px;
+}
+
+.chooseFileImage {
+    color:white;
+    font-family: 'DotGothic16';
+    font-size: 12px;
+    padding: 20px;
+}
+
+.deleteButtonImage{
+    border: none;
+    background-color: #333533;
+    margin-bottom: -35px;
+    height: auto;
+    top:0;
+    border-radius: 15px;
+}
+
+input[type="file"]::-webkit-file-upload-button {
+    border: none;
+    padding: 5px 12px;
+    background: #F3C25C;
+    color: #fff;
+    font-size: 1em;
+    transition: all .4s;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  .uploadButtonImage {
+    border: none;
+    padding: 5px 10px;
+    background: #F3C25C;
+    color: #fff;
+    font-size: 0.5em;
+    transition: all .4s;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'DotGothic16';
+    font-size: 12px;
+  }
+
+  /* .picwithtitle{
+    display: flex;
+    flex-direction: column;
+} */
+
+  p {
+    color:white;
+    font-family: 'DotGothic16';
+    font-size: 13px;
+    padding: 7px 20px;
+  }
+
+  .IMAGEtable{
+  
+    display: flex;
+    margin: auto;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+
+  

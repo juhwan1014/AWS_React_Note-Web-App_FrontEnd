@@ -1,0 +1,9 @@
+.Home {
+    padding: 200px 0;
+    text-align: center;
+  }
+  
+.Home h3 {
+  font-family: 'DotGothic16', sans-serif;
+  font-weight: 600;
+}

@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "custom"
+  ],
+  "parentResource": "ninjanotes0a973fde",
+  "functionName": "ninjanotes0a973fdePostConfirmation",
+  "resourceName": "ninjanotes0a973fdePostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/Users/thelmapalma/.nvm/versions/node/v14.15.4/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "triggerEventPath": "PostConfirmation.event.json",
+  "roleName": "ninjanotes0a973fdePostConfirmation",
+  "skipEdit": true,
+  "enableCors": false
+}

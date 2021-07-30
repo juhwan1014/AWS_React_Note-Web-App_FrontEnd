@@ -1,0 +1,82 @@
+h2{
+    font-family: 'DotGothic16';
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+}
+
+th{
+    font-family: 'DotGothic16';
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    border-bottom: solid;
+    border-color: white;
+   
+}
+.todoTable{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #333533;
+}
+
+.inputFormTodo{
+    display: flex;
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.putSection{
+    display: flex;
+    text-align: center;
+    margin: auto;
+}
+
+.checkedLabel{
+    padding-left: 20px;
+     color: white;font-family: 'DotGothic16';
+    font-size: 30px;
+}
+.checkedBox:checked + .checkedLabel {
+   text-decoration: line-through;
+   color: black;
+}
+.checkedBox{
+   margin-right: 10px;
+   width: 50px;
+}
+
+.todoInputBox{
+    font-family: 'DotGothic16';
+    font-size: 20px;
+    padding: 10px;
+    width: 720px;
+    height: 50px;
+    border-color: #F3C25C;
+    border-style: solid;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.createButton{
+    background-color: #F3C25C;
+    color: white;
+    border: none;
+    width: 80px;
+}
+
+.deleteButton{
+    background-color: #333533;
+    color: white;
+    font-family: 'DotGothic16';
+    font-weight: 800;
+    border: none;
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}

@@ -1,0 +1,68 @@
+.profileItem{
+    padding-left: 20px;
+    font-family: 'DotGothic16';
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+    display: flex;
+}
+.profileEmailItem{
+    padding-left: 20px;
+    font-family: 'DotGothic16';
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+    padding-top: 50px;
+    display: flex;
+}
+
+.profileGenderItem{
+    padding-left: 20px;
+    font-family: 'DotGothic16';
+    color: white;
+    font-size: 30px;
+    margin-left: 100px;
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.proTitle{
+    margin-left: -50px;
+    width: 280px;
+    font-family: 'DotGothic16';
+}
+
+.profileTable{
+    margin: auto;
+    text-align: center;
+    width: 800px;
+    border-radius: 10px;
+    background-color: #333533;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ProfileEdit{
+    margin-left: 550px;
+    padding: 5px 10px;
+    margin-bottom: 50px;
+    font-weight:bolder;
+    background-color: #F3C25C;
+    color: white;
+    border: none;
+    width: 80px;
+}
+
+.profileCreateButton{
+    padding: 5px 10px;
+    margin-left: 30px;
+    background-color: #F3C25C;
+    font-weight:bolder;
+    color: white;
+    border: none;
+    width: 80px;
+}
+
+.profileButtons{
+    display: flex;
+}
